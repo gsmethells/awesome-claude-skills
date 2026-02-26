@@ -109,6 +109,7 @@ Skills for working with complex file formats:
   - [Blog post about its development](https://blog.fsck.com/2025/10/23/naming-claude-plugins/)
   - Install from `superpowers-marketplace` plugin
 
+- **[claude-config](https://gitlab.com/oldmission/claude-config)** by [Greg Smethells](https://github.com/gsmethells) - Complete skills library for Claude Code with 12 production-ready skills (`/boot`, `/design`, `/review`, `/ship`, `/goal`, and more), automated hooks for linting and test enforcement, and team coding standards. One-command install, automatic updates.
 
 ### Individual Skills
 
